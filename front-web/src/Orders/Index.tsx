@@ -9,7 +9,7 @@ import OrderSummary from './OrderSummary';
 import Footer from '../Footer/Index';
 import { checkIsSelected } from './helpers';
 
-import { toast, ToastContainer } from 'react-toastify';
+import { toast, } from 'react-toastify';
 
 
 function Orders() {
