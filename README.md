@@ -6,11 +6,11 @@ This is a traditional online system to order food. This app has a welcome page, 
 
 It was used the following technologies:
 
-Backend: Java with Spring Boot
+Backend: Java with Spring Boot, JPA / Hibernate and Maven
 
-Frontend: typescript with ReactJS, ReactNative and CSS.
+Frontend: TypeScript with ReactJS, JavaScript, ReactNative and CSS/ HTML, Apex Charts and Expo.
 
-Database at the beginning: PostgreSQL
+Database: PostgreSQL
 
 IDE's: Spring Tool Suite (Backend), VS Code (Frontend) and pgAdmin (database tests)
 
